@@ -55,6 +55,5 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 - Possibilité d'intégrer le modèle à une application de santé pour une détection précoce.
 
 ## Auteur
-Ce projet a été réalisé par
 **[Hajar Abdessadek]**.
 
