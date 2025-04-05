@@ -56,5 +56,5 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 ## Auteur
 Ce projet a été réalisé par
-**[Hajar Abdessadek , KHALIL EL BOUNI Salima,LAMKADDEM Abdelmalek,ELHASNI Yassir]**.
+**[Hajar Abdessadek]**.
 
